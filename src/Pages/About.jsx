@@ -12,7 +12,7 @@ function About() {
             <div className="mt-8 text-left">
                 <h2 className="text-2xl font-semibold text-gray-700">Contact Us</h2>
                 <p className="mt-4 text-gray-600">If you have any questions or feedback, 
-                  feel free to reach out to us at t-blue-500</p>
+                  feel free to reach out to us at </p>
             </div>
         </div>
     );
