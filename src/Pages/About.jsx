@@ -11,7 +11,8 @@ function About() {
             
             <div className="mt-8 text-left">
                 <h2 className="text-2xl font-semibold text-gray-700">Contact Us</h2>
-                <p className="mt-4 text-gray-600">If you have any questions or feedback, feel free to reach out to us at <a href="mailto:support@gradecalc.com" className="text-blue-500">support@gradecalc.com</a>.</p>
+                <p className="mt-4 text-gray-600">If you have any questions or feedback, 
+                  feel free to reach out to us at t-blue-500</p>
             </div>
         </div>
     );
