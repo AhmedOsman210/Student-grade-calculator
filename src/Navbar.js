@@ -14,7 +14,7 @@ function Navbar() {
         <nav className=" bg-green-600 text-white font-bold py-4 lg:py-6 px-4">
             <div className="max-w-7xl mx-auto flex justify-between items-center">
                 <div className="flex items-center space-x-4 ">
-                    <h1 className="text-lg lg:text-xl">Somalia Wedding Guest</h1>
+                    <h1 className="text-lg lg:text-xl">Student Grade Calculator</h1>
                
                 </div>
                 <div className="lg:hidden">
